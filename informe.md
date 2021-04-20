@@ -1,6 +1,8 @@
 # Introducción
 
-En este informe lo que vamos a ver es bla bla bla.
+En este informe lo que vamos a ver es cómo usar git. Para eso vamos a partir explicando lo que es un commit.
+
+La estructura de este informe será i) introducción, ii) desarrollo y iii) conclusión.
 
 # Desarrollo
 
