@@ -8,4 +8,4 @@ Esta es la primera versión del desarrollo.
 
 # Conclusión
 
-Esta es la mejor conclusión que puede existir.
+Esta es la mejor conclusión que puede existir, que a su vez es la primera versión de la conclusión.
