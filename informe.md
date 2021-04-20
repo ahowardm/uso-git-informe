@@ -4,7 +4,7 @@ En este informe lo que vamos a ver es bla bla bla.
 
 # Desarrollo
 
-Esta es la primera versión del desarrollo.
+Esta es la segunda versión del desarrollo.
 
 # Conclusión
 
